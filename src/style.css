@@ -1,0 +1,71 @@
+
+ul li a {
+    font-size: 0.9rem;
+    color: #303233;
+  }
+  
+ul li a.cart:hover {
+    text-decoration: none;
+    color: #d60e96;
+  }
+  
+ul li a.cart .cart-basket {
+    font-size: .6rem;
+    position: absolute;
+    top: -6px;
+    right: -5px;
+    width: 15px;
+    height: 15px;
+    color: #fff;
+    background-color: #418deb;
+    border-radius: 50%;
+  }
+
+#head{
+  margin-left: 15%;
+  width: 100%;
+}
+
+.items{
+  margin: 5%;
+}
+#search{
+  width:100%;
+}
+#main{
+  text-align: center;
+  background-color: antiquewhite;
+}
+#myimg{
+  padding: 0% 5%;
+}
+.checked {
+  color: orange;
+}
+.clr{
+  background-color: red;
+}
+#rage{
+
+  margin-left: 10%;
+}
+#rag{
+  margin-top: 20%;
+}
+.newsletterArea{
+  padding: 5% 10%;
+  background-color: #322f47db;
+  border-radius: 4px;
+}
+.newsletterArea h3{
+  color: #fff;
+}
+.newsletterArea p{
+  color: #959392;
+}
+.newsletterArea div input{
+  border: 1px solid gray;
+  border-radius: 40px;
+  padding: 5px 10px;
+  outline: none;
+}

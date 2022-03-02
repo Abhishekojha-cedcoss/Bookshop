@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekojha-cedcoss/bootsrap-product-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekojha-cedcoss/bootsrap-product-page/issues"
+  },
+  "homepage": "https://github.com/Abhishekojha-cedcoss/bootsrap-product-page#readme",
+  "description": ""
+}
